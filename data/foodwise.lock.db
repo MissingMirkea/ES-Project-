@@ -1,0 +1,6 @@
+#FileLock
+#Wed Nov 18 23:13:39 EET 2026
+hostName=MIR
+id=1a1f08216326bfcd005bcfd3340fca26bae2e01a114
+method=file
+server=192.168.56.1\:56445
